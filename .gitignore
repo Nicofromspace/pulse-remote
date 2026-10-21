@@ -1,0 +1,22 @@
+# Generated builds and packages
+**/bin/
+**/obj/
+app/
+*.zip
+*.pdb
+*.user
+*.suo
+.vs/
+.idea/
+
+# Machine-specific connection identity and diagnostics
+pairing-key.txt
+companion.json
+*.log
+readings.json
+test-results.txt
+VALIDATION.md
+
+# Operating system files
+.DS_Store
+Thumbs.db
